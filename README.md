@@ -8,9 +8,15 @@ With the rise of government monitoring programs, Tox provides an easy to use app
       - Goals of Tox
             - To Provide a Secure Communications Platform to replace commonly used programs such as Skype
             - Ensure the privacy of its users by using strong encryption methods
-            - Scale with it's userbase to allow for a decentrailized approach within the network
+            - Scale with it's userbase to allow for a decentralized approach within the network
             - Provide an easy protocol to allow developers to create thier own clients and have the mobility 
               to be platform independant.
+            - Ease of use, so that non-technical users can have their privacy respected by using state of the
+              art encryption standards.
+            - Transparancy, so the user can trust in the software and focus on using it to enhance the way
+              they communicate with the world.
+            - Freedom. Tox is both free for you to use, and free for you to change. You are completely free 
+              to both use and modify Tox. Furthermore, Tox will never harass you with ads, or require you to pay for                    features.
       
       - What it Solves
 
